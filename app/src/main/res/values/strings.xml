@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppSeven</string>
+
+    <string name="hello_world">ToDo List</string>
+    <string name="action_settings">New</string>
+    <string name="action_settings2">View</string>
+
+</resources>
